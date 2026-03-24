@@ -1,0 +1,18 @@
+{
+  "name": "patcoll-skills-collection",
+  "owner": {
+    "name": "Patrick Collins"
+  },
+  "metadata": {
+    "description": "Claude Code plugins and agents",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ooda",
+      "description": "OODA loop agents (observe, orient, decide, act) and investigation skills",
+      "source": "./plugins/ooda",
+      "strict": true
+    }
+  ]
+}
