@@ -1,9 +1,6 @@
 ---
 name: investigate-and-plan
-description: |
-  This skill should be used when the user asks to "investigate and plan", "analyze and
-  plan", "research then plan", or wants a structured investigation followed by an
-  actionable plan using the OODA loop agents.
+description: Thoroughly investigate a subject, then create a plan to address.
 argument-hint: <subject>
 disable-model-invocation: true
 ---

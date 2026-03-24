@@ -1,9 +1,6 @@
 ---
 name: investigate
-description: |
-  This skill should be used when the user asks to "investigate", "look into",
-  "analyze this", "explore this issue", or wants a structured investigation of
-  a subject using the OODA loop agents without producing a plan.
+description: Thoroughly investigate a subject for review.
 argument-hint: <subject>
 disable-model-invocation: true
 ---
