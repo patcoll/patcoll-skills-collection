@@ -13,6 +13,12 @@
       "description": "OODA loop agents (observe, orient, decide, act) and investigation skills",
       "source": "./plugins/ooda",
       "strict": true
+    },
+    {
+      "name": "find-tests",
+      "description": "Find and run tests relevant to changed files by tracing the call graph",
+      "source": "./plugins/find-tests",
+      "strict": true
     }
   ]
 }

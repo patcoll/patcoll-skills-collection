@@ -1,0 +1,9 @@
+{
+  "name": "find-tests",
+  "description": "Find and run tests relevant to changed files by tracing the call graph",
+  "version": "1.0.0",
+  "author": {
+    "name": "Patrick Collins"
+  },
+  "repository": "patcoll/patcoll-skills-collection"
+}
