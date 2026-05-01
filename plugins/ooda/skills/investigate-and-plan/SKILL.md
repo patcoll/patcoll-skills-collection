@@ -11,6 +11,6 @@ Plan:
 $ARGUMENTS
 </subject_to_plan>
 
-Workflow: `@ooda:observe -> @ooda:orient -> @ooda:decide`. Output of observe goes to orient, then output goes to decide.
+Workflow: `observe -> orient -> decide`. Output of observe goes to orient, then output goes to decide.
 
-Use only @ooda:observe, @ooda:orient, and @ooda:decide subagents to create the plan. DO NOT make code changes. DO NOT execute any commands that will mutate state on my system. You SHALL ONLY create a plan to address.
+Use only observe, orient, and decide subagents to create the plan. DO NOT make code changes. DO NOT execute any commands that will mutate state on my system. You SHALL ONLY create a plan to address.
