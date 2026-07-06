@@ -19,6 +19,12 @@
       "description": "Find and run tests relevant to changed files by tracing the call graph",
       "source": "./plugins/find-tests",
       "strict": true
+    },
+    {
+      "name": "explain-diff",
+      "description": "Generate rich, interactive explanations of code changes, diffs, branches, or PRs",
+      "source": "./plugins/explain-diff",
+      "strict": true
     }
   ]
 }
