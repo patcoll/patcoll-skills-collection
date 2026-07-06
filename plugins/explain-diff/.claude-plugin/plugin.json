@@ -1,0 +1,9 @@
+{
+  "name": "explain-diff",
+  "description": "Generate rich, interactive explanations of code changes, diffs, branches, or PRs as HTML or Notion pages",
+  "version": "1.0.0",
+  "author": {
+    "name": "unknown"
+  },
+  "repository": "patcoll/patcoll-skills-collection"
+}
